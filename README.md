@@ -1,7 +1,9 @@
 # Bienvenue👋
 ### Je m'appelle Eva, j'ai 19ans et je suis passionnée par le développement ! ♥<br>
 
-> Voici une petite énigme si tu souhaite me connaitre !<br>
+<details>
+<summary>Voici une petite énigme si tu souhaite me connaitre !<br></summary>
+
 const nom = "enigme des passions";<br>
 const passionA = "oc";<br>
 const passionA2 = "de";<br>
@@ -26,6 +28,10 @@ const enigmeComplète =
   ".";
 
   Alors, tu as su trouver le résultat?:thinking:
+
+</details>
+
+
 <!--
 **eva-dpr2004/eva-dpr2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
