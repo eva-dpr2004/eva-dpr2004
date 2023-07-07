@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+#const nom = "enigme des passions";
+const passionA = "oc";
+const passionA2 = "de";
+const passionB1 = "j";
+const passionB2 = "ue";
+const passionB3 = "x";
+const passionB4 = "odiév".split("").reverse().join("");
+
+const phraseStructurée = "Je suis structuré et universel, je suis le ";
+const phraseImmersive = "Je suis immersif, interactif et créatif, je suis le ";
+
+const enigmeComplète =
+  phraseStructurée +
+  passionA +
+  passionA2 +
+  " et " +
+  phraseImmersive +
+  passionB1 +
+  passionB2.split("").reverse().join("") +
+  passionB3 +
+  passionB4 +
+  ".";
 <!--
 **eva-dpr2004/eva-dpr2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
