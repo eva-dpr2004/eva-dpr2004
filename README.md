@@ -24,7 +24,8 @@ const enigmeComplète =
   passionB4 +
   ".";
 
-  Alors, tu as su trouver le résultat?:thinking: 
+  Alors, tu as su trouver le résultat?
+  <span style="font-size: 2em;">:thinking:</span> 
 <!--
 **eva-dpr2004/eva-dpr2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
