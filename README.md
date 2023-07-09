@@ -1,4 +1,4 @@
-<img src="code.gif" style="width: 1000px;"><br>
+<img src="code.gif" style="width: 800px;height:300px;"><br>
 # Bienvenue👋
 ### Je m'appelle Eva, j'ai 19ans et je suis passionnée par le développement !<br>
 
