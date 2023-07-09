@@ -1,3 +1,5 @@
+<blockquote style="background-image: linear-gradient(to top, #6a85b6 0%, #bac8e0 100%);>
+
 # Bienvenue👋
 ### Je m'appelle Eva, j'ai 19ans et je suis passionnée par le développement !<br>
 
@@ -41,6 +43,8 @@ passionB4 +
   <img src="LOGO/nodejs.png" style="width: 100px;">
   <img src="LOGO/mysql.png" style="width: 100px;">
 </div>
+
+</blockquote>
 <!--
 **eva-dpr2004/eva-dpr2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
