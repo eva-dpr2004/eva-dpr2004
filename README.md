@@ -31,7 +31,7 @@ passionB4 +
   Alors, tu as su trouver le résultat?:thinking:
 </details><br>
 
-### Mes compétences<img src="marche.gif"><br>
+### Mes compétences<br>
 <img src="Compétences.png">
 <!--
 **eva-dpr2004/eva-dpr2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
