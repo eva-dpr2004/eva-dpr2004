@@ -1,3 +1,4 @@
+<img src="code.gif">
 # Bienvenue👋
 ### Je m'appelle Eva, j'ai 19ans et je suis passionnée par le développement !<br>
 
