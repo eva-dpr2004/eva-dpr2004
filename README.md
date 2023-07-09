@@ -29,7 +29,9 @@ passionB4 +
 <br>
   Alors, tu as su trouver le résultat?:thinking:
 </details><br>
+
 ### Mes compétences<br>
+
 <div class="logo">
   <img src="LOGO/figma.png" style="width: 85px;">
   <img src="LOGO/html.png" style="width: 35px;">
