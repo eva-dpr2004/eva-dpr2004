@@ -37,7 +37,7 @@ passionB4 +
   <img src="LOGO/html.png" style="width: 35px;">
   <img src="LOGO/css.png" style="width: 35px;">
   <img src="LOGO/js.png" style="width: 35px;">
-  <img src="LOGO/nodejs.png" style="width: 30px;">
+  <img src="LOGO/nodejs.png" style="width: 30px;margin-bottom:15px">
   <img src="LOGO/mysql.png" style="width: 30px;">
 </div>
 <!--
