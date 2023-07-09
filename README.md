@@ -4,7 +4,7 @@
 <details>
 <summary>Voici une petite énigme si tu souhaite me connaitre !<br></summary>
 <br>
-const nom = "enigme des passions";
+const nom = "enigme des passions";<br>
 const passionA = "oc";<br>
 const passionA2 = "de";<br>
 const passionB1 = "j";<br>
