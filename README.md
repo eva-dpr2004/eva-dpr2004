@@ -32,7 +32,7 @@ passionB4 +
 </details><br>
 
 ### Mes compétences<br>
-<div class="logo" style"height:15px;width:15px;">
+<div class="logo" style"height:5px;width:5px;">
 <img src="LOGO/html.png">
 <img src="LOGO/css.png">
 <img src="LOGO/js.png">
