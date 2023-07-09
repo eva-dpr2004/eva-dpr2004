@@ -28,7 +28,7 @@ passionB4 +
 ".";
 <br>
   Alors, tu as su trouver le résultat?:thinking:
-</details><br>
+</details>
 
 ### Mes compétences<br>
 
