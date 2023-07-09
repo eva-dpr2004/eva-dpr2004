@@ -4,7 +4,7 @@
 <details>
 <summary>Voici une petite énigme si tu souhaite me connaitre !<br></summary>
 <br>
-
+```javascript
 const nom = "enigme des passions";
 const passionA = "oc";
 const passionA2 = "de";
