@@ -32,7 +32,7 @@ passionB4 +
 </details><br>
 
 ### Mes compétences<br>
-<img src="C:\Users\hibana4\Downloads\Compétences.png" height="60" width="60" >
+<img src="C:\Users\hibana4\Downloads\Compétences.png">
 <!--
 **eva-dpr2004/eva-dpr2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
