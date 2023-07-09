@@ -33,9 +33,9 @@ passionB4 +
 
 ### Mes compétences<br>
 <img src="LOGO/html.png">
-<img src="LOGO/html.png">
-<img src="LOGO/html.png">
-<img src="LOGO/html.png">
+<img src="LOGO/css.png">
+<img src="LOGO/js.png">
+<img src="LOGO/nodejs.png">
 <!--
 **eva-dpr2004/eva-dpr2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
