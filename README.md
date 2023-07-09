@@ -37,8 +37,8 @@ passionB4 +
   <img src="LOGO/html.png" style="width: 35px;">
   <img src="LOGO/css.png" style="width: 35px;">
   <img src="LOGO/js.png" style="width: 35px;">
-  <img src="LOGO/nodejs.png" style="width: 60px;">
-  <img src="LOGO/mysql.png" style="width: 60px;">
+  <img src="LOGO/nodejs.png" style="width: 75px;">
+  <img src="LOGO/mysql.png" style="width: 75px;">
 </div>
 <!--
 **eva-dpr2004/eva-dpr2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
