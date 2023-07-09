@@ -26,6 +26,7 @@ passionB2.split("").reverse().join("") +
 passionB3 +
 passionB4 +
 ".";
+
 <br>
   Alors, tu as su trouver le résultat?:thinking:
 </details>
