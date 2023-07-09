@@ -34,12 +34,12 @@ passionB4 +
 ### Mes compétences<br>
 
 <div class="logo">
-  <img src="LOGO/figma.png" style="width: 85px;margin-right: 5px;">
-  <img src="LOGO/html.png" style="width: 35px;margin-right: 20px;">
-  <img src="LOGO/css.png" style="width: 35px;margin-right: 20px;">
-  <img src="LOGO/js.png" style="width: 35px;margin-right: 20px;">
-  <img src="LOGO/nodejs.png" style="width: 100px;margin-right: 20px;">
-  <img src="LOGO/mysql.png" style="width: 100px;margin-right: 20px;">
+  <img src="LOGO/figma.png" style="width: 85px;margin-right: -5px;">
+  <img src="LOGO/html.png" style="width: 35px;margin-right: 35px;">
+  <img src="LOGO/css.png" style="width: 35px;margin-right: 35px;">
+  <img src="LOGO/js.png" style="width: 35px;margin-right: 35px;">
+  <img src="LOGO/nodejs.png" style="width: 100px;margin-right: 35px;">
+  <img src="LOGO/mysql.png" style="width: 100px;margin-right: 35px;">
 </div>
 <!--
 **eva-dpr2004/eva-dpr2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
