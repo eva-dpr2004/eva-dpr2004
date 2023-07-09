@@ -4,17 +4,16 @@
 <details>
 <summary>Voici une petite énigme si tu souhaite me connaitre !<br></summary>
 <br>
-
 const nom = "enigme des passions";
-const passionA = "oc";
-const passionA2 = "de";
-const passionB1 = "j";
-const passionB2 = "ue";
-const passionB3 = "x";
-const passionB4 = "odiév".split("").reverse().join("");
+const passionA = "oc";<br>
+const passionA2 = "de";<br>
+const passionB1 = "j";<br>
+const passionB2 = "ue";<br>
+const passionB3 = "x";<br>
+const passionB4 = "odiév".split("").reverse().join("");<br>
 
-const phraseStructurée = "Je suis structuré et universel, je suis le ";
-const phraseImmersive = "Je suis immersif, interactif et créatif, je suis le ";
+const phraseStructurée = "Je suis structuré et universel, je suis le ";<br>
+const phraseImmersive = "Je suis immersif, interactif et créatif, je suis le ";<br>
 
 const enigmeComplète =
 phraseStructurée +
@@ -27,9 +26,8 @@ passionB2.split("").reverse().join("") +
 passionB3 +
 passionB4 +
 ".";
-
+<br>
   Alors, tu as su trouver le résultat?:thinking:
-
 </details>
 
 
