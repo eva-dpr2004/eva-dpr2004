@@ -35,7 +35,7 @@ passionB4 +
 ### Mes compétences<br>
 
 <div class="logo">
-  <img src="LOGO/figmaa.png" style="width: 85px;">
+  <img src="LOGO/figmaa.png" style="width: 35px;">
   <img src="LOGO/html.png" style="width: 35px;">
   <img src="LOGO/css.png" style="width: 35px;">
   <img src="LOGO/js.png" style="width: 35px;">
