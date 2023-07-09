@@ -3,7 +3,7 @@
 
 <details>
 <summary>Voici une petite énigme si tu souhaite me connaitre !<br></summary>
-
+```javascript
 const nom = "enigme des passions";<br>
 const passionA = "oc";<br>
 const passionA2 = "de";<br>
@@ -26,7 +26,7 @@ const enigmeComplète =
   passionB3 +
   passionB4 +
   ".";
-
+```
   Alors, tu as su trouver le résultat?:thinking:
 
 </details>
