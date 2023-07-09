@@ -1,4 +1,3 @@
-<img src="marche.gif"><br>
 # Bienvenue👋
 ### Je m'appelle Eva, j'ai 19ans et je suis passionnée par le développement !<br>
 
@@ -32,7 +31,7 @@ passionB4 +
   Alors, tu as su trouver le résultat?:thinking:
 </details><br>
 
-### Mes compétences<br>
+### Mes compétences<img src="marche.gif"><br>
 <img src="Compétences.png">
 <!--
 **eva-dpr2004/eva-dpr2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
