@@ -1,35 +1,9 @@
 
 # Bienvenue👋
-### Je m'appelle Eva, j'ai 19ans et je suis passionnée par le développement.<br>
+### Qui suis-je ? <br>
 
 <details>
-<summary>Voici une petite énigme si tu souhaite me connaitre !<br></summary>
-<br>
-const nom = "enigme des passions";<br>
-const passionA = "oc";<br>
-const passionA2 = "de";<br>
-const passionB1 = "j";<br>
-const passionB2 = "ue";<br>
-const passionB3 = "x";<br>
-const passionB4 = "odiév".split("").reverse().join("");<br>
-
-const phraseStructurée = "Je suis structuré et universel, je suis le ";<br>
-const phraseImmersive = "Je suis immersif, interactif et créatif, je suis le ";<br>
-
-const enigmeComplète =
-phraseStructurée +
-passionA +
-passionA2 +
-" et " +
-phraseImmersive +
-passionB1 +
-passionB2.split("").reverse().join("") +
-passionB3 +
-passionB4 +
-".";
-
-<br>
-  Alors, tu as su trouver le résultat?:thinking:
+Je suis Eva, une passionnée de 19 ans axée sur l'informatique, le développement, le design et les jeux vidéo. Mon parcours se construit autour de la création de mondes numériques, alliant autonomie dans mes projets personnels et collaboration pour apprendre des autres. Ma démarche équilibrée reflète ma volonté d'innover. Je m'engage à évoluer constamment dans cet univers numérique en constante évolution, prête à relever les défis pour apprendre, explorer et créer.
 </details>
 
 ### Mes compétences<br>
