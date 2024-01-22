@@ -1,6 +1,6 @@
 
 # Bienvenue👋
-### Je m'appelle Eva, j'ai 19ans et je suis passionnée par le développement !<br>
+### Je m'appelle Eva, j'ai 19ans et je suis passionnée par le développement.<br>
 
 <details>
 <summary>Voici une petite énigme si tu souhaite me connaitre !<br></summary>
