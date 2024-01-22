@@ -3,7 +3,7 @@
 ### Qui suis-je ? <br>
 
 <details>
-Je suis Eva, une passionnée de 19 ans axée sur l'informatique, le développement, le design et les jeux vidéo. Mon parcours se construit autour de la création de mondes numériques, alliant autonomie dans mes projets personnels et collaboration pour apprendre des autres. Ma démarche équilibrée reflète ma volonté d'innover. Je m'engage à évoluer constamment dans cet univers numérique en constante évolution, prête à relever les défis pour apprendre, explorer et créer.
+Je suis Eva, une passionnée de 19 ans axée sur l'informatique, le développement, le design et les jeux vidéo. Mon parcours se construit autour de la création de mondes numériques, alliant autonomie dans mes projets personnels et collaboration pour apprendre des autres. Ma démarche équilibrée reflète ma volonté d'innover. Je m'engage à progresser constamment dans cet univers en constante évolution, prête à relever les défis pour apprendre, explorer et créer.
 </details>
 
 ### Mes compétences<br>
