@@ -7,7 +7,6 @@ Je m'appelle Eva, jeune passionnée de 19 ans axée sur l'informatique, le déve
 
 </details>
 
-
 ### Langages et outils : <br>
 
 <div class="logo">
