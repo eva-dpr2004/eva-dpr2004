@@ -10,7 +10,6 @@ Je m'appelle Eva, jeune passionnée de 19 ans axée sur l'informatique, le déve
 ### Langages et outils : <br>
 
 <div class="logo">
-  <img src="LOGO/git-logo.png" style="width: 35px;">
   <img src="LOGO/figmaa.png" style="width: 30px;">
   <img src="LOGO/html.png" style="width: 35px;">
   <img src="LOGO/css.png" style="width: 35px;">
