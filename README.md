@@ -8,7 +8,7 @@ Je m'appelle Eva, jeune passionnée de 19 ans axée sur l'informatique, le déve
 </details>
 
 
-### Mes compétences<br>
+### Langages et outils : <br>
 
 <div class="logo">
   <img src="LOGO/figmaa.png" style="width: 30px;">
