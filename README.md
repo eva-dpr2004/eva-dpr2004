@@ -3,7 +3,7 @@
 <details>
   <summary><b>Qui suis-je ?</b></summary>
 <br>
-Je m'appelle Eva, j'ai 19 ans, passionnée par l'informatique, le développement, le design et les jeux vidéo. J'aime créer des mondes numériques, travailler sur mes projets tout en collaborant avec d'autres. Je suis déterminée à innover et à progresser dans ce domaine en constante évolution, prête à relever de nouveaux défis pour apprendre, explorer et créer.
+Je m'appelle Eva, j'ai 20 ans, passionnée par l'informatique, le développement, le design et les jeux vidéo. J'aime créer des mondes numériques, travailler sur mes projets tout en collaborant avec d'autres. Je suis déterminée à innover et à progresser dans ce domaine en constante évolution, prête à relever de nouveaux défis pour apprendre, explorer et créer.
 
 </details>
 
