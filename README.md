@@ -23,8 +23,7 @@
 ![Visily](https://img.shields.io/badge/Visily-007BFF?style=for-the-badge&logo=visily&logoColor=white)
 
 ## Spécialités:
-- **Conception Graphique**
-- **UX/UI Design**
+- **Conception Graphique (maquettage / prototypage)**
 - **Développement Web Front-End et Back-End**
 
 ## Contactez - moi !
