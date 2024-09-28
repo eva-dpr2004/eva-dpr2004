@@ -2,12 +2,11 @@
 
 # Bienvenue ! Je suis Eva De Palma Rosario 👋
 
-## Qui suis-je? 🌟
+## Contactez- moi
 <details>
-  <summary><b>En savoir plus sur moi</b></summary>
+  <summary><b>Informations de contact</b></summary>
   <br>
-  Passionnée par la conception et le développement de solutions digitales élégantes et performantes, je suis une développeuse dédiée à l'innovation dans le domaine du développement web et mobile. Localisée à Rosny-Sous-Bois, France, je suis toujours prête à explorer de nouvelles technologies et à relever de nouveaux défis.
-  
+
   - **Email:** [rosarioeva.pro@gmail.com](mailto:rosarioeva.pro@gmail.com)
   - **LinkedIn:** [Eva De Palma Rosario](https://www.linkedin.com/in/eva-de-palma-rosario-071658253/?originalSubdomain=fr)
 </details>
