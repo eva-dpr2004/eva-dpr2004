@@ -32,7 +32,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Visily](https://img.shields.io/badge/Visily-007BFF?style=for-the-badge&logo=visily&logoColor=white)
+![Visily](https://img.shields.io/badge/Visily-UI%20Design-blue?style=for-the-badge)
 
 ### Spécialités:
 - **Conception Graphique**
