@@ -34,5 +34,5 @@
 - **UX/UI Design**
 - **Gestion de Projet et Optimisation SEO**
 
-Je suis ouverte à collaborer sur des projets passionnants et à partager mes connaissances avec d'autres passionnés de technologie. **Contactez-moi!**
+Je suis ouverte à collaborer sur des projets passionnants et à partager mes connaissances. **Contactez-moi!**
 
