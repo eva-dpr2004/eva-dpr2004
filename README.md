@@ -2,15 +2,6 @@
 
 # Bienvenue ! Je suis Eva De Palma Rosario 👋
 
-## Contactez- moi
-<details>
-  <summary><b>Informations de contact</b></summary>
-  <br>
-
-  - **Email:** [rosarioeva.pro@gmail.com](mailto:rosarioeva.pro@gmail.com)
-  - **LinkedIn:** [Eva De Palma Rosario](https://www.linkedin.com/in/eva-de-palma-rosario-071658253/?originalSubdomain=fr)
-</details>
-
 ## 🎓 Formations et Diplômes
 - **2024 - Concepteur Développeur d’Applications** - Diplôme reconnu par l’Etat niveau 6 RNCP, France
 - **2023 - Développeur Web et Web Mobile FullStack Javascript** - Titre professionnel reconnu par l’Etat niveau 5 RNCP, France
@@ -36,8 +27,15 @@
 ### Spécialités:
 - **Conception Graphique**
 - **UX/UI Design**
-- **Développement Front-End et Back-End**
 - **Gestion de Projet et Optimisation SEO**
+- **Développement Front-End et Back-End**
 
-Je suis ouverte à collaborer sur des projets passionnants et à partager mes connaissances. **Contactez-moi!**
+## Contactez- moi !
+<details>
+  <summary><b>Informations de contact</b></summary>
+  <br>
+
+  - **Email:** [rosarioeva.pro@gmail.com](mailto:rosarioeva.pro@gmail.com)
+  - **LinkedIn:** [Eva De Palma Rosario](https://www.linkedin.com/in/eva-de-palma-rosario-071658253/?originalSubdomain=fr)
+</details>
 
