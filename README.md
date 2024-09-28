@@ -1,6 +1,6 @@
 ![Banner](LOGO/anime-style-galaxy-background.jpg)
 
-# Bienvenue sur le profil de Eva De Palma Rosario 👋
+# Bienvenue ! Je suis Eva De Palma Rosario 👋
 
 ## Qui suis-je? 🌟
 <details>
