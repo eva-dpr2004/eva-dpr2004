@@ -1,4 +1,4 @@
-![Banner](LOGO/anime-style-galaxy-background.jpg)
+![Banner](LOGO/BanniereGithub.png)
 
 # Bienvenue ! Je suis Eva De Palma Rosario 👋
 
