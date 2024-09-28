@@ -25,10 +25,9 @@
 ## Spécialités:
 - **Conception Graphique**
 - **UX/UI Design**
-- **Gestion de Projet et Optimisation SEO**
-- **Développement Front-End et Back-End**
+- **Développement Web Front-End et Back-End**
 
-## Contactez- moi !
+## Contactez - moi !
 <details>
   <summary><b>Informations de contact</b></summary>
   <br>
