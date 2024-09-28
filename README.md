@@ -1,7 +1,5 @@
 ![Banner](LOGO/BanniereGithub.png)
 
-# Bienvenue ! Je suis Eva De Palma Rosario 👋
-
 ## 🎓 Formations et Diplômes
 - **2024 - Concepteur Développeur d’Applications** - Diplôme reconnu par l’Etat niveau 6 RNCP, France
 - **2023 - Développeur Web et Web Mobile FullStack Javascript** - Titre professionnel reconnu par l’Etat niveau 5 RNCP, France
@@ -24,7 +22,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Visily](https://img.shields.io/badge/Visily-007BFF?style=for-the-badge&logo=visily&logoColor=white)
 
-### Spécialités:
+## Spécialités:
 - **Conception Graphique**
 - **UX/UI Design**
 - **Gestion de Projet et Optimisation SEO**
