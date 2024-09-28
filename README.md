@@ -1,4 +1,4 @@
-![Banner]("LOGO/anime-style-galaxy-background.jpg")
+![Banner](LOGO/anime-style-galaxy-background.jpg)
 
 # Bienvenue sur le profil de Eva De Palma Rosario 👋
 
