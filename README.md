@@ -14,7 +14,7 @@
 
 ## 🎓 Formations et Diplômes
 - **2024 - Concepteur Développeur d’Applications** - Diplôme reconnu par l’Etat niveau 6 RNCP, France
-- **2023 - Développeur Web et Web Mobile** - Titre professionnel reconnu par l’Etat niveau 5 RNCP, France
+- **2023 - Développeur Web et Web Mobile FullStack Javascript** - Titre professionnel reconnu par l’Etat niveau 5 RNCP, France
 - **2023 - Cléa** - Compétences de base pour tout métier
 
 ## 💻 Compétences Techniques
