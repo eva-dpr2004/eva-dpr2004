@@ -18,6 +18,8 @@ Je m'appelle Eva, j'ai 20 ans, passionnée par l'informatique, le développement
   <img src="LOGO/nodejs.png" style="width: 100px;">
   <img src="LOGO/mysql.png" style="width: 100px;">
   <img src="LOGO/logo-firebase.png" style="width: 55px;">
+  <img src="LOGO/jenkins.png" style="width: 100px;">
+  <img src="LOGO/Sonarqube.png" style="width: 100px;">
 </div>
 
 <!--
